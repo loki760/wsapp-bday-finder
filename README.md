@@ -1,6 +1,6 @@
 # WhatsApp Birthday Extractor
 
-A lightning-fast mini-project (vibed out in 15 mins 😎) to help club coordinators like me remember birthdays — without ever setting a reminder.
+A lightning-fast mini-project (vibed coded in 15 mins 😎) to help club coordinators like me remember birthdays — without ever setting a reminder.
 
 As the coordinator of our club, I kept forgetting people’s birthdays. Thankfully, everyone says *“Happy birthday @phone-number”* in our WhatsApp group chats — so I automated it!
 
