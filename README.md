@@ -19,7 +19,7 @@ As the coordinator of our club, I kept forgetting people’s birthdays. Thankful
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/whatsapp-birthday-extractor.git
+   git clone https://github.com/loki760/whatsapp-birthday-extractor.git
    cd whatsapp-birthday-extractor
    
 2. **Export your WhatsApp chat**
